@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">mAPp My Way</string>
+    <string name="dustbin">dustbin</string>
+    <string name="complaints">complaints</string>
+    <string name="hospitals">hospitals</string>
+    <string name="schools">schools</string>
+</resources>
